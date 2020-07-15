@@ -1,0 +1,4 @@
+pandas
+flat_table
+matplotlib
+seaborn
